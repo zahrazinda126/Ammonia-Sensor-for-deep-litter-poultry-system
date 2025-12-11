@@ -1,11 +1,11 @@
-# 🐔 Portable Ammonia Sensor for Deep-Litter Poultry Houses
+#  Portable Ammonia Sensor for Deep-Litter Poultry Houses
 
 This project is an **Arduino UNO R4 WiFi–based portable monitor** for poultry houses on deep litter.  
 It tracks **ammonia (simulated with an MQ-2 sensor), temperature and humidity**, drives **LED + buzzer alerts**, and exposes a **beautiful web dashboard** over Wi-Fi.
 
 ---
 
-## 🌍 Problem Background
+##  Problem Background
 
 In deep-litter poultry systems, manure decomposes on the floor and silently releases **ammonia (NH₃)**.  
 Farmers usually notice **only when birds start coughing, tearing, or dying**:
@@ -19,7 +19,7 @@ This device gives **early warning** so action is taken **before** birds are visi
 
 ---
 
-## ✨ Features
+## Features
 
 - **Real-time readings**
   - Temperature (°C) – DHT11  
@@ -51,7 +51,7 @@ This device gives **early warning** so action is taken **before** birds are visi
 
 ---
 
-## 🧩 Hardware
+##  Hardware
 
 - **Arduino UNO R4 WiFi**
 - **MQ-2 gas sensor** (used here as *ammonia index* sensor, analog output)
@@ -75,7 +75,7 @@ This device gives **early warning** so action is taken **before** birds are visi
 
 ---
 
-## 🛠️ Software & Libraries
+##  Software & Libraries
 
 Board: **Arduino UNO R4 WiFi**
 
